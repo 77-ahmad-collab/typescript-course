@@ -12,7 +12,10 @@
   "dependencies": {
     "@types/faker": "^5.5.9",
     "axios": "^0.25.0",
-    "faker": "^5.5.3"
+    "faker": "^5.5.3",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2",
+    "redux-thunk": "^2.4.1"
   },
   "devDependencies": {
     "typescript": "^4.5.5"
